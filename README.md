@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Nizamuddin1N/leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
