@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 ## Tree
 |  |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/Nizamuddin1N/leetcode/tree/master/1075-project-employees-i) |
 | [1179-reformat-department-table](https://github.com/Nizamuddin1N/leetcode/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/Nizamuddin1N/leetcode/tree/master/1211-queries-quality-and-percentage) |
+## Array
+|  |
+| ------- |
+| [0376-wiggle-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0376-wiggle-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0376-wiggle-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0376-wiggle-subsequence) |
 <!---LeetCode Topics End-->
