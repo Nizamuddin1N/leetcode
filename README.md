@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0392-is-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0392-is-subsequence) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 ## Tree
 |  |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0376-wiggle-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
