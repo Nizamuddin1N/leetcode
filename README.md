@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0184-department-highest-salary](https://github.com/Nizamuddin1N/leetcode/tree/master/0184-department-highest-salary) |
 | [0550-game-play-analysis-iv](https://github.com/Nizamuddin1N/leetcode/tree/master/0550-game-play-analysis-iv) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Nizamuddin1N/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/Nizamuddin1N/leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Nizamuddin1N/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Nizamuddin1N/leetcode/tree/master/0607-sales-person) |
