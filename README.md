@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Nizamuddin1N/leetcode/tree/master/0464-can-i-win) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Nizamuddin1N/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0473-matchsticks-to-square](https://github.com/Nizamuddin1N/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0486-predict-the-winner](https://github.com/Nizamuddin1N/leetcode/tree/master/0486-predict-the-winner) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 ## Tree
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Nizamuddin1N/leetcode/tree/master/0486-predict-the-winner) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 ## Memoization
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Nizamuddin1N/leetcode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/Nizamuddin1N/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/Nizamuddin1N/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0486-predict-the-winner](https://github.com/Nizamuddin1N/leetcode/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0396-rotate-function](https://github.com/Nizamuddin1N/leetcode/tree/master/0396-rotate-function) |
 | [0464-can-i-win](https://github.com/Nizamuddin1N/leetcode/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/Nizamuddin1N/leetcode/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Nizamuddin1N/leetcode/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/Nizamuddin1N/leetcode/tree/master/0486-predict-the-winner) |
 ## Bitmask
 |  |
 | ------- |
