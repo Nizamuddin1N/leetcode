@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Nizamuddin1N/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Nizamuddin1N/leetcode/tree/master/0542-01-matrix) |
+| [0553-optimal-division](https://github.com/Nizamuddin1N/leetcode/tree/master/0553-optimal-division) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 ## Tree
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Nizamuddin1N/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Nizamuddin1N/leetcode/tree/master/0542-01-matrix) |
+| [0553-optimal-division](https://github.com/Nizamuddin1N/leetcode/tree/master/0553-optimal-division) |
 | [1765-map-of-highest-peak](https://github.com/Nizamuddin1N/leetcode/tree/master/1765-map-of-highest-peak) |
 ## Greedy
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Nizamuddin1N/leetcode/tree/master/0396-rotate-function) |
 | [0464-can-i-win](https://github.com/Nizamuddin1N/leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Nizamuddin1N/leetcode/tree/master/0486-predict-the-winner) |
+| [0553-optimal-division](https://github.com/Nizamuddin1N/leetcode/tree/master/0553-optimal-division) |
 ## Bit Manipulation
 |  |
 | ------- |
