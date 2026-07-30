@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Nizamuddin1N/leetcode/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/Nizamuddin1N/leetcode/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/Nizamuddin1N/leetcode/tree/master/0576-out-of-boundary-paths) |
+| [0583-delete-operation-for-two-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 ## Tree
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0392-is-subsequence) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Nizamuddin1N/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 ## Math
 |  |
 | ------- |
