@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/Nizamuddin1N/leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Nizamuddin1N/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 ## Tree
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Nizamuddin1N/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Nizamuddin1N/leetcode/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Math
 |  |
 | ------- |
