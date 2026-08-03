@@ -1,27 +1,45 @@
 class Solution {
 public:
     int orderOfLargestPlusSign(int n, vector<vector<int>>& mines) {
-        vector<vector<int>> grid(n, vector<int>(n, 1));
-        for(auto &m:mines){
-            grid[m[0]][m[1]] = 0;
-        }
+        vector<vector<int>>dp(n, vector<int>(n, n));
         int ans=0;
+        for(auto &m:mines){
+            dp[m[0]][m[1]] = 0;
+        }
+        //left pass
         for(int i=0; i<n; i++){
+            int count=0;
             for(int j=0; j<n; j++){
-                if(grid[i][j] == 0){
-                    continue;
-                }
-                int d=1;
-                while(true){
-                    if(i-d <0 || j-d <0 || i+d >=n || j+d >= n){
-                        break;
-                    }
-                    if(grid[i-d][j] == 0 || grid[i+d][j] == 0 || grid[i][j-d] == 0|| grid[i][j+d]==0){
-                        break;
-                    }
-                    d++;
-                }
-                ans = max(ans, d);
+                count = (dp[i][j] == 0) ? 0 : count+1;
+                dp[i][j] = min(dp[i][j], count);
+            }
+        }
+
+        //right pass
+        for(int i=0; i<n; i++){
+            int count=0;
+            for(int j=n-1; j>=0; j--){
+                count = (dp[i][j] == 0) ? 0 : count+1;
+                dp[i][j] = min(dp[i][j], count);
+            }
+        }
+
+        //down pass
+        for(int i=0; i<n; i++){
+            int count=0;
+            for(int j=0; j<n; j++){
+                count = (dp[j][i] == 0) ? 0 : count+1;
+                dp[j][i] = min(dp[j][i], count);
+            }
+        }
+
+        //up pass
+        for(int i=0; i<n; i++){
+            int count = 0;
+            for(int j=n-1; j>=0; j--){
+                count = (dp[j][i] == 0) ? 0 : count+1;
+                dp[j][i] = min(dp[j][i], count);
+                ans = max(ans, dp[j][i]);
             }
         }
         return ans;
