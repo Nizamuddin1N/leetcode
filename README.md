@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-largest-plus-sign](https://github.com/Nizamuddin1N/leetcode/tree/master/0764-largest-plus-sign) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nizamuddin1N/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Nizamuddin1N/leetcode/tree/master/0788-rotated-digits) |
+| [0790-domino-and-tromino-tiling](https://github.com/Nizamuddin1N/leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 ## Tree
 |  |
