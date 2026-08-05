@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nizamuddin1N/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Nizamuddin1N/leetcode/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/Nizamuddin1N/leetcode/tree/master/0790-domino-and-tromino-tiling) |
+| [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 ## Tree
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nizamuddin1N/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Nizamuddin1N/leetcode/tree/master/0740-delete-and-earn) |
 | [0764-largest-plus-sign](https://github.com/Nizamuddin1N/leetcode/tree/master/0764-largest-plus-sign) |
+| [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1765-map-of-highest-peak](https://github.com/Nizamuddin1N/leetcode/tree/master/1765-map-of-highest-peak) |
 ## Greedy
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Nizamuddin1N/leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Math
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Nizamuddin1N/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nizamuddin1N/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Game Theory
 |  |
 | ------- |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nizamuddin1N/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -213,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/Nizamuddin1N/leetcode/tree/master/0740-delete-and-earn) |
+| [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -229,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nizamuddin1N/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Trie
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
