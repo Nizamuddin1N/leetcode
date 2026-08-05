@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Nizamuddin1N/leetcode/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/Nizamuddin1N/leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0808-soup-servings](https://github.com/Nizamuddin1N/leetcode/tree/master/0808-soup-servings) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 ## Tree
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Nizamuddin1N/leetcode/tree/master/0553-optimal-division) |
 | [0650-2-keys-keyboard](https://github.com/Nizamuddin1N/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0788-rotated-digits](https://github.com/Nizamuddin1N/leetcode/tree/master/0788-rotated-digits) |
+| [0808-soup-servings](https://github.com/Nizamuddin1N/leetcode/tree/master/0808-soup-servings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0808-soup-servings](https://github.com/Nizamuddin1N/leetcode/tree/master/0808-soup-servings) |
 <!---LeetCode Topics End-->
