@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nizamuddin1N/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0392-is-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0392-is-subsequence) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Nizamuddin1N/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nizamuddin1N/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0547-number-of-provinces](https://github.com/Nizamuddin1N/leetcode/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nizamuddin1N/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nizamuddin1N/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Probability and Statistics
 |  |
@@ -252,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nizamuddin1N/leetcode/tree/master/0547-number-of-provinces) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nizamuddin1N/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
