@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Nizamuddin1N/leetcode/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Nizamuddin1N/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1587-bank-account-summary-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/1587-bank-account-summary-ii) |
+| [1683-invalid-tweets](https://github.com/Nizamuddin1N/leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Nizamuddin1N/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Nizamuddin1N/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Nizamuddin1N/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
