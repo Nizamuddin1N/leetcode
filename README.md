@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Nizamuddin1N/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1587-bank-account-summary-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1795-rearrange-products-table](https://github.com/Nizamuddin1N/leetcode/tree/master/1795-rearrange-products-table) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Nizamuddin1N/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
 | ------- |
