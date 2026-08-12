@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/Nizamuddin1N/leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Nizamuddin1N/leetcode/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Nizamuddin1N/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Nizamuddin1N/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/Nizamuddin1N/leetcode/tree/master/1393-capital-gainloss) |
 | [1587-bank-account-summary-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/Nizamuddin1N/leetcode/tree/master/1683-invalid-tweets) |
