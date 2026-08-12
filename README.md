@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/Nizamuddin1N/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/Nizamuddin1N/leetcode/tree/master/1795-rearrange-products-table) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Nizamuddin1N/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3475-dna-pattern-recognition](https://github.com/Nizamuddin1N/leetcode/tree/master/3475-dna-pattern-recognition) |
 ## Array
 |  |
 | ------- |
