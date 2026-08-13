@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0140-word-break-ii) |
 | [0376-wiggle-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Nizamuddin1N/leetcode/tree/master/0396-rotate-function) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/Nizamuddin1N/leetcode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/Nizamuddin1N/leetcode/tree/master/0464-can-i-win) |
 | [0638-shopping-offers](https://github.com/Nizamuddin1N/leetcode/tree/master/0638-shopping-offers) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0140-word-break-ii) |
 | [0376-wiggle-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/Nizamuddin1N/leetcode/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/Nizamuddin1N/leetcode/tree/master/0413-arithmetic-slices) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nizamuddin1N/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0392-is-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0392-is-subsequence) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Nizamuddin1N/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/Nizamuddin1N/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Nizamuddin1N/leetcode/tree/master/0526-beautiful-arrangement) |
@@ -232,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0140-word-break-ii) |
 | [0740-delete-and-earn](https://github.com/Nizamuddin1N/leetcode/tree/master/0740-delete-and-earn) |
 | [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Depth-First Search
@@ -257,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nizamuddin1N/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/Nizamuddin1N/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
