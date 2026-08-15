@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Nizamuddin1N/leetcode/tree/master/0740-delete-and-earn) |
 | [0764-largest-plus-sign](https://github.com/Nizamuddin1N/leetcode/tree/master/0764-largest-plus-sign) |
 | [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nizamuddin1N/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1765-map-of-highest-peak](https://github.com/Nizamuddin1N/leetcode/tree/master/1765-map-of-highest-peak) |
 ## Greedy
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nizamuddin1N/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0981-time-based-key-value-store](https://github.com/Nizamuddin1N/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nizamuddin1N/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Rolling Hash
 |  |
 | ------- |
