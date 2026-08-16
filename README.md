@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0140-word-break-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nizamuddin1N/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0376-wiggle-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/Nizamuddin1N/leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -222,14 +223,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nizamuddin1N/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nizamuddin1N/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nizamuddin1N/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Nizamuddin1N/leetcode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nizamuddin1N/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -295,4 +299,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/0410-split-array-largest-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nizamuddin1N/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nizamuddin1N/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nizamuddin1N/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nizamuddin1N/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
