@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Nizamuddin1N/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0528-random-pick-with-weight](https://github.com/Nizamuddin1N/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nizamuddin1N/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Nizamuddin1N/leetcode/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/Nizamuddin1N/leetcode/tree/master/0553-optimal-division) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Nizamuddin1N/leetcode/tree/master/0396-rotate-function) |
 | [0464-can-i-win](https://github.com/Nizamuddin1N/leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Nizamuddin1N/leetcode/tree/master/0486-predict-the-winner) |
+| [0528-random-pick-with-weight](https://github.com/Nizamuddin1N/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0553-optimal-division](https://github.com/Nizamuddin1N/leetcode/tree/master/0553-optimal-division) |
 | [0650-2-keys-keyboard](https://github.com/Nizamuddin1N/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0788-rotated-digits](https://github.com/Nizamuddin1N/leetcode/tree/master/0788-rotated-digits) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Nizamuddin1N/leetcode/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nizamuddin1N/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/Nizamuddin1N/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nizamuddin1N/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Nizamuddin1N/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Nizamuddin1N/leetcode/tree/master/0704-binary-search) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/Nizamuddin1N/leetcode/tree/master/0528-random-pick-with-weight) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -330,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Nizamuddin1N/leetcode/tree/master/0278-first-bad-version) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/Nizamuddin1N/leetcode/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
