@@ -344,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Nizamuddin1N/leetcode/tree/master/0528-random-pick-with-weight) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Nizamuddin1N/leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
