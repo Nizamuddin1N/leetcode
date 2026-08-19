@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-largest-plus-sign](https://github.com/Nizamuddin1N/leetcode/tree/master/0764-largest-plus-sign) |
 | [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nizamuddin1N/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Nizamuddin1N/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1765-map-of-highest-peak](https://github.com/Nizamuddin1N/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Nizamuddin1N/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 ## Greedy
@@ -349,4 +350,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Nizamuddin1N/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Nizamuddin1N/leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Nizamuddin1N/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Nizamuddin1N/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Nizamuddin1N/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
