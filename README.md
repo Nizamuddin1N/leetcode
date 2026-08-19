@@ -348,4 +348,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Nizamuddin1N/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Nizamuddin1N/leetcode/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
