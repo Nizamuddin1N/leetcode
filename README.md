@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0140-word-break-ii) |
+| [0355-design-twitter](https://github.com/Nizamuddin1N/leetcode/tree/master/0355-design-twitter) |
 | [0740-delete-and-earn](https://github.com/Nizamuddin1N/leetcode/tree/master/0740-delete-and-earn) |
 | [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0981-time-based-key-value-store](https://github.com/Nizamuddin1N/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Nizamuddin1N/leetcode/tree/master/0355-design-twitter) |
 | [0658-find-k-closest-elements](https://github.com/Nizamuddin1N/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nizamuddin1N/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nizamuddin1N/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0355-design-twitter](https://github.com/Nizamuddin1N/leetcode/tree/master/0355-design-twitter) |
 | [0981-time-based-key-value-store](https://github.com/Nizamuddin1N/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Prefix Sum
 |  |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Nizamuddin1N/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/Nizamuddin1N/leetcode/tree/master/0355-design-twitter) |
 | [0725-split-linked-list-in-parts](https://github.com/Nizamuddin1N/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nizamuddin1N/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nizamuddin1N/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
