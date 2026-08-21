@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Nizamuddin1N/leetcode/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/Nizamuddin1N/leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0629-k-inverse-pairs-array](https://github.com/Nizamuddin1N/leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [0638-shopping-offers](https://github.com/Nizamuddin1N/leetcode/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nizamuddin1N/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Nizamuddin1N/leetcode/tree/master/0647-palindromic-substrings) |
