@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0808-soup-servings](https://github.com/Nizamuddin1N/leetcode/tree/master/0808-soup-servings) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [3193-count-the-number-of-inversions](https://github.com/Nizamuddin1N/leetcode/tree/master/3193-count-the-number-of-inversions) |
 ## Tree
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/Nizamuddin1N/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Nizamuddin1N/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1920-build-array-from-permutation](https://github.com/Nizamuddin1N/leetcode/tree/master/1920-build-array-from-permutation) |
+| [3193-count-the-number-of-inversions](https://github.com/Nizamuddin1N/leetcode/tree/master/3193-count-the-number-of-inversions) |
 ## Greedy
 |  |
 | ------- |
