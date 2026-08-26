@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Nizamuddin1N/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Nizamuddin1N/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0981-time-based-key-value-store](https://github.com/Nizamuddin1N/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Nizamuddin1N/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Nizamuddin1N/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 ## Math
 |  |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nizamuddin1N/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0938-range-sum-of-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Nizamuddin1N/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/1302-deepest-leaves-sum) |
