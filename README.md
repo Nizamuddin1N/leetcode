@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Nizamuddin1N/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Nizamuddin1N/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Nizamuddin1N/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Nizamuddin1N/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Nizamuddin1N/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nizamuddin1N/leetcode/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nizamuddin1N/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nizamuddin1N/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Nizamuddin1N/leetcode/tree/master/0355-design-twitter) |
 | [0740-delete-and-earn](https://github.com/Nizamuddin1N/leetcode/tree/master/0740-delete-and-earn) |
 | [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0981-time-based-key-value-store](https://github.com/Nizamuddin1N/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nizamuddin1N/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Nizamuddin1N/leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nizamuddin1N/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Nizamuddin1N/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -464,4 +469,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Binary Lifting
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## DP on Trees
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
