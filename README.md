@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Nizamuddin1N/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nizamuddin1N/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Nizamuddin1N/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nizamuddin1N/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Nizamuddin1N/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/Nizamuddin1N/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nizamuddin1N/leetcode/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nizamuddin1N/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nizamuddin1N/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Nizamuddin1N/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Nizamuddin1N/leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nizamuddin1N/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0897-increasing-order-search-tree) |
