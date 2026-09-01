@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nizamuddin1N/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nizamuddin1N/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Database
 |  |
 | ------- |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
