@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Nizamuddin1N/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0508-most-frequent-subtree-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Nizamuddin1N/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0606-construct-string-from-binary-tree) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Nizamuddin1N/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0508-most-frequent-subtree-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Nizamuddin1N/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0606-construct-string-from-binary-tree) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0140-word-break-ii) |
 | [0355-design-twitter](https://github.com/Nizamuddin1N/leetcode/tree/master/0355-design-twitter) |
+| [0508-most-frequent-subtree-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0740-delete-and-earn](https://github.com/Nizamuddin1N/leetcode/tree/master/0740-delete-and-earn) |
 | [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Nizamuddin1N/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Nizamuddin1N/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0508-most-frequent-subtree-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Nizamuddin1N/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/Nizamuddin1N/leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nizamuddin1N/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
