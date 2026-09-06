@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Nizamuddin1N/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1609-even-odd-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1609-even-odd-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nizamuddin1N/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Nizamuddin1N/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Nizamuddin1N/leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1609-even-odd-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1609-even-odd-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nizamuddin1N/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Nizamuddin1N/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1609-even-odd-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1609-even-odd-tree) |
 | [1765-map-of-highest-peak](https://github.com/Nizamuddin1N/leetcode/tree/master/1765-map-of-highest-peak) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nizamuddin1N/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
