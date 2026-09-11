@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Nizamuddin1N/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0998-maximum-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0998-maximum-binary-tree-ii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nizamuddin1N/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Nizamuddin1N/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Nizamuddin1N/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0998-maximum-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0998-maximum-binary-tree-ii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nizamuddin1N/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Nizamuddin1N/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0981-time-based-key-value-store](https://github.com/Nizamuddin1N/leetcode/tree/master/0981-time-based-key-value-store) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Nizamuddin1N/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Nizamuddin1N/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Nizamuddin1N/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 ## Math
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Nizamuddin1N/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Nizamuddin1N/leetcode/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Nizamuddin1N/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Nizamuddin1N/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Nizamuddin1N/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nizamuddin1N/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Nizamuddin1N/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
