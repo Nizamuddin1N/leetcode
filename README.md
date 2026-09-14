@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Nizamuddin1N/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0655-print-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Nizamuddin1N/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0655-print-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0140-word-break-ii) |
 | [0355-design-twitter](https://github.com/Nizamuddin1N/leetcode/tree/master/0355-design-twitter) |
 | [0508-most-frequent-subtree-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/Nizamuddin1N/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0740-delete-and-earn](https://github.com/Nizamuddin1N/leetcode/tree/master/0740-delete-and-earn) |
 | [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Nizamuddin1N/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0655-print-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
