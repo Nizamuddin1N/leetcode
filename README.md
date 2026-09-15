@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/Nizamuddin1N/leetcode/tree/master/0808-soup-servings) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3193-count-the-number-of-inversions](https://github.com/Nizamuddin1N/leetcode/tree/master/3193-count-the-number-of-inversions) |
 ## Tree
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nizamuddin1N/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Recursion
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nizamuddin1N/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Database
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Nizamuddin1N/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nizamuddin1N/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3193-count-the-number-of-inversions](https://github.com/Nizamuddin1N/leetcode/tree/master/3193-count-the-number-of-inversions) |
 ## Greedy
 |  |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nizamuddin1N/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nizamuddin1N/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
