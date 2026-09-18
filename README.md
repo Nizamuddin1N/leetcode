@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Nizamuddin1N/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0808-soup-servings](https://github.com/Nizamuddin1N/leetcode/tree/master/0808-soup-servings) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [0968-binary-tree-cameras](https://github.com/Nizamuddin1N/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0965-univalued-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/Nizamuddin1N/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Nizamuddin1N/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0965-univalued-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/Nizamuddin1N/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Nizamuddin1N/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0965-univalued-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/Nizamuddin1N/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Nizamuddin1N/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -673,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0563-binary-tree-tilt](https://github.com/Nizamuddin1N/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0968-binary-tree-cameras](https://github.com/Nizamuddin1N/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nizamuddin1N/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
