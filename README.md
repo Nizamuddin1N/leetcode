@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nizamuddin1N/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Nizamuddin1N/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nizamuddin1N/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Nizamuddin1N/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nizamuddin1N/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1361-validate-binary-tree-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nizamuddin1N/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Nizamuddin1N/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -557,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nizamuddin1N/leetcode/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nizamuddin1N/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1361-validate-binary-tree-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -583,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nizamuddin1N/leetcode/tree/master/0547-number-of-provinces) |
+| [1361-validate-binary-tree-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Design
 |  |
