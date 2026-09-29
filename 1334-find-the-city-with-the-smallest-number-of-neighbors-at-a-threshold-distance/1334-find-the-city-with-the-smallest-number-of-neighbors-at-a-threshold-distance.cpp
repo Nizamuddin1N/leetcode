@@ -1,55 +1,49 @@
 class Solution {
 public:
-    void dfs(int node, unordered_map<int, vector<pair<int, int>>>& mp,int distance, int distanceThreshold, vector<int>& dist) {
-
-        if (distance > distanceThreshold) {
-            return;
-        }
-
-        if (distance >= dist[node]) {
-            return;
-        }
-
-        dist[node] = distance;
-
-        for (auto& x : mp[node]) {
-            int next = x.first;
-            int weight = x.second;
-
-            dfs(next, mp, distance + weight, distanceThreshold, dist);
-        }
-    }
-
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        unordered_map<int, vector<pair<int, int>>> mp;
-
-        for (auto& edge : edges) {
-            mp[edge[0]].push_back({edge[1], edge[2]});
-            mp[edge[1]].push_back({edge[0], edge[2]});
+        //make adjacency list;
+        vector<vector<pair<int,int>>>adjacency(n);
+        for(auto& edge:edges){
+            int u = edge[0];
+            int v = edge[1];
+            int w = edge[2];
+            adjacency[u].push_back({v,w});
+            adjacency[v].push_back({u,w});
         }
-
-        int result = -1;
-        int minNodes = INT_MAX;
-
-        for (int i = 0; i < n; i++) {
-            vector<int> dist(n, INT_MAX);
-
-            dfs(i, mp, 0, distanceThreshold, dist);
-
+        int answer = -1;
+        int mincount = INT_MAX;
+        for(int src=0; src<n; src++){
+            vector<int>dist(n, INT_MAX);
+            priority_queue<pair<int,int>, vector<pair<int, int>>, greater<pair<int, int>>>pq;
+            dist[src] = 0;
+            pq.push({0, src});
+            while(!pq.empty()){
+                auto[d, node] = pq.top();
+                pq.pop();
+                if(d>dist[node]){
+                    continue;
+                }
+                for(auto&edge:adjacency[node]){
+                    int next = edge.first;
+                    int weight = edge.second;
+                    int newdist = d + weight;
+                    if(newdist < dist[next]){
+                        dist[next] = newdist;
+                        pq.push({newdist, next});
+                    }
+                }
+            }
             int count = 0;
-
-            for (int j = 0; j < n; j++) {
-                if (j != i && dist[j] <= distanceThreshold) {
+            for(int i=0; i<n; i++){
+                if(i != src && dist[i] <= distanceThreshold){
                     count++;
                 }
             }
-
-            if (count <= minNodes) {
-                minNodes = count;
-                result = i;
+            if(count<=mincount){
+                mincount = count;
+                answer = src;
             }
         }
-
-        return result;
+        return answer;
     }
 };
