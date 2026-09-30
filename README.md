@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nizamuddin1N/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nizamuddin1N/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Nizamuddin1N/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nizamuddin1N/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Nizamuddin1N/leetcode/tree/master/1470-shuffle-the-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nizamuddin1N/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1361-validate-binary-tree-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Nizamuddin1N/leetcode/tree/master/0542-01-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1765-map-of-highest-peak](https://github.com/Nizamuddin1N/leetcode/tree/master/1765-map-of-highest-peak) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Nizamuddin1N/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nizamuddin1N/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Nizamuddin1N/leetcode/tree/master/0841-keys-and-rooms) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nizamuddin1N/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1361-validate-binary-tree-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nizamuddin1N/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/Nizamuddin1N/leetcode/tree/master/1791-find-center-of-star-graph) |
@@ -599,11 +603,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Nizamuddin1N/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nizamuddin1N/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Nizamuddin1N/leetcode/tree/master/0912-sort-an-array) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nizamuddin1N/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nizamuddin1N/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -766,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nizamuddin1N/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -798,4 +805,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Nizamuddin1N/leetcode/tree/master/0802-find-eventual-safe-states) |
+## 0-1 BFS
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
