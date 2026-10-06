@@ -597,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Nizamuddin1N/leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nizamuddin1N/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/Nizamuddin1N/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Nizamuddin1N/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Nizamuddin1N/leetcode/tree/master/0547-number-of-provinces) |
 | [1361-validate-binary-tree-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Nizamuddin1N/leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nizamuddin1N/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2685-count-the-number-of-complete-components](https://github.com/Nizamuddin1N/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
