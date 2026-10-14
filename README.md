@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-root-equals-sum-of-children](https://github.com/Nizamuddin1N/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Nizamuddin1N/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nizamuddin1N/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Nizamuddin1N/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Nizamuddin1N/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Nizamuddin1N/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Nizamuddin1N/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Nizamuddin1N/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nizamuddin1N/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nizamuddin1N/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Nizamuddin1N/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Nizamuddin1N/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -610,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/Nizamuddin1N/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Nizamuddin1N/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Nizamuddin1N/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Nizamuddin1N/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2924-find-champion-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2924-find-champion-ii) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/Nizamuddin1N/leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
