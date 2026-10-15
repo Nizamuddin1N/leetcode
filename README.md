@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/Nizamuddin1N/leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3193-count-the-number-of-inversions](https://github.com/Nizamuddin1N/leetcode/tree/master/3193-count-the-number-of-inversions) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nizamuddin1N/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Nizamuddin1N/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Nizamuddin1N/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nizamuddin1N/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Indexed Tree
 |  |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2924-find-champion-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2924-find-champion-ii) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/Nizamuddin1N/leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nizamuddin1N/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/Nizamuddin1N/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Nizamuddin1N/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -642,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Nizamuddin1N/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Trie
 |  |
 | ------- |
