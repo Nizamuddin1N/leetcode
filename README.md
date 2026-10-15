@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nizamuddin1N/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nizamuddin1N/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Nizamuddin1N/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Nizamuddin1N/leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nizamuddin1N/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Nizamuddin1N/leetcode/tree/master/1470-shuffle-the-array) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nizamuddin1N/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Nizamuddin1N/leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1302-deepest-leaves-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Nizamuddin1N/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nizamuddin1N/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Nizamuddin1N/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Nizamuddin1N/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Nizamuddin1N/leetcode/tree/master/0841-keys-and-rooms) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Nizamuddin1N/leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nizamuddin1N/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nizamuddin1N/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1361-validate-binary-tree-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/1361-validate-binary-tree-nodes) |
