@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nizamuddin1N/leetcode/tree/master/0020-valid-parentheses) |
 | [0140-word-break-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nizamuddin1N/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0392-is-subsequence](https://github.com/Nizamuddin1N/leetcode/tree/master/0392-is-subsequence) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nizamuddin1N/leetcode/tree/master/0020-valid-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nizamuddin1N/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
@@ -858,4 +860,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Nizamuddin1N/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nizamuddin1N/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
