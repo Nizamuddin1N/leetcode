@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Nizamuddin1N/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Nizamuddin1N/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2097-valid-arrangement-of-pairs](https://github.com/Nizamuddin1N/leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nizamuddin1N/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Nizamuddin1N/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Nizamuddin1N/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Nizamuddin1N/leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nizamuddin1N/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2097-valid-arrangement-of-pairs](https://github.com/Nizamuddin1N/leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Nizamuddin1N/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Nizamuddin1N/leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nizamuddin1N/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/Nizamuddin1N/leetcode/tree/master/1791-find-center-of-star-graph) |
+| [2097-valid-arrangement-of-pairs](https://github.com/Nizamuddin1N/leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Nizamuddin1N/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Nizamuddin1N/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Nizamuddin1N/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
@@ -878,4 +881,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/Nizamuddin1N/leetcode/tree/master/2097-valid-arrangement-of-pairs) |
+## Eulerian Path
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/Nizamuddin1N/leetcode/tree/master/2097-valid-arrangement-of-pairs) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/Nizamuddin1N/leetcode/tree/master/2097-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
