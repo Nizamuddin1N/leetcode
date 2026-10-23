@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-cousins-in-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3812-minimum-edge-toggles-on-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Recursion
 |  |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/Nizamuddin1N/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3812-minimum-edge-toggles-on-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Game Theory
 |  |
 | ------- |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-cousins-in-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Nizamuddin1N/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3812-minimum-edge-toggles-on-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Graph Theory
 |  |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3812-minimum-edge-toggles-on-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nizamuddin1N/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
@@ -845,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Nizamuddin1N/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [2050-parallel-courses-iii](https://github.com/Nizamuddin1N/leetcode/tree/master/2050-parallel-courses-iii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Nizamuddin1N/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
+| [3812-minimum-edge-toggles-on-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
