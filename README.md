@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2467-most-profitable-path-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nizamuddin1N/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Nizamuddin1N/leetcode/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Nizamuddin1N/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/Nizamuddin1N/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2924-find-champion-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2924-find-champion-ii) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/Nizamuddin1N/leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Nizamuddin1N/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Nizamuddin1N/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Nizamuddin1N/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Nizamuddin1N/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Nizamuddin1N/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Nizamuddin1N/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Nizamuddin1N/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Trie
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/Nizamuddin1N/leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0981-time-based-key-value-store](https://github.com/Nizamuddin1N/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Nizamuddin1N/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Prefix Sum
 |  |
 | ------- |
