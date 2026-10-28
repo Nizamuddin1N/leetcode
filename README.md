@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2467-most-profitable-path-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nizamuddin1N/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Nizamuddin1N/leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Nizamuddin1N/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nizamuddin1N/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Nizamuddin1N/leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nizamuddin1N/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Nizamuddin1N/leetcode/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Nizamuddin1N/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Nizamuddin1N/leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nizamuddin1N/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Nizamuddin1N/leetcode/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Nizamuddin1N/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Nizamuddin1N/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Nizamuddin1N/leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nizamuddin1N/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Nizamuddin1N/leetcode/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Nizamuddin1N/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
