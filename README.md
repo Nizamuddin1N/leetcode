@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/Nizamuddin1N/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Nizamuddin1N/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Nizamuddin1N/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nizamuddin1N/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Nizamuddin1N/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Nizamuddin1N/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Nizamuddin1N/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Nizamuddin1N/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Nizamuddin1N/leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nizamuddin1N/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Nizamuddin1N/leetcode/tree/master/0542-01-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Nizamuddin1N/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1765-map-of-highest-peak](https://github.com/Nizamuddin1N/leetcode/tree/master/1765-map-of-highest-peak) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Nizamuddin1N/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
