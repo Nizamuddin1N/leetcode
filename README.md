@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1641-count-sorted-vowel-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [2050-parallel-courses-iii](https://github.com/Nizamuddin1N/leetcode/tree/master/2050-parallel-courses-iii) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3193-count-the-number-of-inversions](https://github.com/Nizamuddin1N/leetcode/tree/master/3193-count-the-number-of-inversions) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/Nizamuddin1N/leetcode/tree/master/0808-soup-servings) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1641-count-sorted-vowel-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Nizamuddin1N/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Bit Manipulation
 |  |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1641-count-sorted-vowel-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
