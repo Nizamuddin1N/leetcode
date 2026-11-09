@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Nizamuddin1N/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1641-count-sorted-vowel-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [2050-parallel-courses-iii](https://github.com/Nizamuddin1N/leetcode/tree/master/2050-parallel-courses-iii) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nizamuddin1N/leetcode/tree/master/0486-predict-the-winner) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Nizamuddin1N/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Memoization
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Nizamuddin1N/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Nizamuddin1N/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/Nizamuddin1N/leetcode/tree/master/0808-soup-servings) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Nizamuddin1N/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1641-count-sorted-vowel-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Nizamuddin1N/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Bit Manipulation
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Nizamuddin1N/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Nizamuddin1N/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Nizamuddin1N/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/Nizamuddin1N/leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 ## Sliding Window
 |  |
