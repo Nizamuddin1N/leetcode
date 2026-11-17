@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Nizamuddin1N/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Nizamuddin1N/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nizamuddin1N/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nizamuddin1N/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Nizamuddin1N/leetcode/tree/master/1920-build-array-from-permutation) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nizamuddin1N/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
