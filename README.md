@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [2050-parallel-courses-iii](https://github.com/Nizamuddin1N/leetcode/tree/master/2050-parallel-courses-iii) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nizamuddin1N/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3193-count-the-number-of-inversions](https://github.com/Nizamuddin1N/leetcode/tree/master/3193-count-the-number-of-inversions) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Nizamuddin1N/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Tree
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Nizamuddin1N/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nizamuddin1N/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Nizamuddin1N/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nizamuddin1N/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
 | ------- |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/Nizamuddin1N/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nizamuddin1N/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nizamuddin1N/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nizamuddin1N/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Math
 |  |
 | ------- |
