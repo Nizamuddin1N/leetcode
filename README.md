@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nizamuddin1N/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nizamuddin1N/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nizamuddin1N/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nizamuddin1N/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Math
 |  |
 | ------- |
