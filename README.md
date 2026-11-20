@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2467-most-profitable-path-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nizamuddin1N/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/Nizamuddin1N/leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3193-count-the-number-of-inversions](https://github.com/Nizamuddin1N/leetcode/tree/master/3193-count-the-number-of-inversions) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Nizamuddin1N/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nizamuddin1N/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Nizamuddin1N/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nizamuddin1N/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nizamuddin1N/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Two Pointers
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nizamuddin1N/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Nizamuddin1N/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nizamuddin1N/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3812-minimum-edge-toggles-on-a-tree) |
