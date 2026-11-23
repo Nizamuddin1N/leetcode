@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-cousins-in-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nizamuddin1N/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Recursion
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Nizamuddin1N/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/Nizamuddin1N/leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3193-count-the-number-of-inversions](https://github.com/Nizamuddin1N/leetcode/tree/master/3193-count-the-number-of-inversions) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nizamuddin1N/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nizamuddin1N/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nizamuddin1N/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nizamuddin1N/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nizamuddin1N/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Math
 |  |
 | ------- |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nizamuddin1N/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nizamuddin1N/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
 |  |
@@ -663,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-cousins-in-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Nizamuddin1N/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nizamuddin1N/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Graph Theory
