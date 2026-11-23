@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Nizamuddin1N/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Nizamuddin1N/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Nizamuddin1N/leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nizamuddin1N/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nizamuddin1N/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Nizamuddin1N/leetcode/tree/master/1470-shuffle-the-array) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Nizamuddin1N/leetcode/tree/master/0788-rotated-digits) |
 | [0808-soup-servings](https://github.com/Nizamuddin1N/leetcode/tree/master/0808-soup-servings) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nizamuddin1N/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Nizamuddin1N/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1641-count-sorted-vowel-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/1641-count-sorted-vowel-strings) |
@@ -773,12 +775,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/Nizamuddin1N/leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0981-time-based-key-value-store](https://github.com/Nizamuddin1N/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nizamuddin1N/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Nizamuddin1N/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Nizamuddin1N/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0528-random-pick-with-weight](https://github.com/Nizamuddin1N/leetcode/tree/master/0528-random-pick-with-weight) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nizamuddin1N/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -988,4 +992,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Nizamuddin1N/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nizamuddin1N/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
