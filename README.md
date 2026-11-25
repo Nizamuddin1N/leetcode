@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/Nizamuddin1N/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nizamuddin1N/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3934-smallest-unique-subarray](https://github.com/Nizamuddin1N/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -564,15 +565,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nizamuddin1N/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3934-smallest-unique-subarray](https://github.com/Nizamuddin1N/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nizamuddin1N/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/Nizamuddin1N/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nizamuddin1N/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/Nizamuddin1N/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-cousins-in-binary-tree-ii](https://github.com/Nizamuddin1N/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Nizamuddin1N/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3934-smallest-unique-subarray](https://github.com/Nizamuddin1N/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1007,4 +1012,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Nizamuddin1N/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Nizamuddin1N/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
