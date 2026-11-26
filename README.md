@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nizamuddin1N/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Nizamuddin1N/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1641-count-sorted-vowel-strings](https://github.com/Nizamuddin1N/leetcode/tree/master/1641-count-sorted-vowel-strings) |
+| [3360-stone-removal-game](https://github.com/Nizamuddin1N/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Nizamuddin1N/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Nizamuddin1N/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Bit Manipulation
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Nizamuddin1N/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nizamuddin1N/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Nizamuddin1N/leetcode/tree/master/3360-stone-removal-game) |
 ## Bucket Sort
 |  |
 | ------- |
