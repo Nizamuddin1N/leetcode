@@ -15,10 +15,10 @@ public:
             int cost = items[i][1];
             int free = frees[i];
 
-            for(int j=budget; j>=cost; --j){
+            for(int j=budget; j>=cost; j--){
                 dp[j] = max(dp[j], dp[j-cost] + 1 + free);
             }
-            for(int j=cost; j<=budget; ++j){
+            for(int j=cost; j<=budget; j++){
                 dp[j] = max(dp[j], dp[j-cost]+1);
             }
         }
