@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Nizamuddin1N/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3193-count-the-number-of-inversions](https://github.com/Nizamuddin1N/leetcode/tree/master/3193-count-the-number-of-inversions) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Nizamuddin1N/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Tree
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nizamuddin1N/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3934-smallest-unique-subarray](https://github.com/Nizamuddin1N/leetcode/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Nizamuddin1N/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Nizamuddin1N/leetcode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nizamuddin1N/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nizamuddin1N/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
